@@ -1,3 +1,10 @@
+#Regarding the current fork
+## Updated until Section-10 so far
+- Some repositories in the original file are outdated. I have created updated stub projects wherever necessary.
+- The links here are up to date as of Jul 14, 2021
+
+
+
 # Flutter-Course-Resources
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
@@ -57,7 +64,7 @@
 * [The Padding Class](https://docs.flutter.io/flutter/widgets/Padding-class.html)
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
-* [MiCard Completed Project](https://github.com/londonappbrewery/MiCard-Completed)
+* [MiCard Completed Project](https://github.com/divyashivaram/flutter_udemy/tree/master/mi_card_flutter)
 
 ## Section 7: Dicee - Building Apps with State
 
@@ -68,30 +75,31 @@
 * [Run code snippets on DartPad](https://dartpad.dartlang.org/)
 * [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
 * [Random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
-* [Dicee Completed Project](https://github.com/londonappbrewery/Dicee-Flutter-Completed)
+* [Dicee Completed Project](https://github.com/divyashivaram/flutter_udemy/tree/master/dicee-flutter)
 
 ## Section 8: Boss Level Challenge 1 - Magic 8 Ball
 
 * [Magic 8 Ball Stub](https://github.com/londonappbrewery/magic-8-ball-flutter)
+* [Magic 8 Ball completed project](https://github.com/divyashivaram/flutter_udemy/tree/master/magic-8-ball-flutter)
 
 ## Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
-* [XyloPhone Stub Project](https://github.com/londonappbrewery/xylophone-flutter)
+* [XyloPhone Stub Project](https://github.com/divyashivaram/xylophone-stub)
 * [Flutter Packages](https://pub.dartlang.org/flutter)
 * [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
 * [Luan Nico's Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
 * [AudioCache Documentation](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
 * [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
-* [Xylophone Completed Project](https://github.com/londonappbrewery/Xylophone-Flutter-Completed)
+* [Xylophone Completed Project](https://github.com/divyashivaram/flutter_udemy/tree/master/xylophone)
 
 ## Section 10: Quizzler - Modularising & Organising Flutter Code
 
-* [Quizzler Stub Project](https://github.com/londonappbrewery/quizzler-flutter)
+* [Quizzler Stub Project](https://github.com/divyashivaram/quizzler-stub)
 * [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
 * [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
-* [Quizzler Starting File for Challenge](https://github.com/londonappbrewery/quizzler-flutter-challenge-starting)
+* [Quizzler Starting File for Challenge](https://github.com/divyashivaram/quizzler-stub/tree/section-10-code-challenge-stub)
 * [Quizzler Solution & Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 
 ## Section 11: Boss Level Challenge 2 - Destini
