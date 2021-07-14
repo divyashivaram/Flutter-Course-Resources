@@ -1,4 +1,4 @@
-#Regarding the current fork
+# Regarding the current fork
 ## Updated until Section-10 so far
 - Some repositories in the original file are outdated. I have created updated stub projects wherever necessary.
 - The links here are up to date as of Jul 14, 2021
